@@ -1,7 +1,7 @@
 
-let pronoun = ["the","our",];
-let adj = ["great","big",];
-let noun = ["jogger","racoon",];
+let pronoun = ["the","our","my","you"];
+let adj = ["great","big","small","dizzy" ];
+let noun = ["turtle","racoon","cat","rabbit"];
 
 for(p = 0; p < pronoun.length; p++){
     for(a = 0; a < adj.length; a++){
