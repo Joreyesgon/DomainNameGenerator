@@ -8,9 +8,7 @@ for(p = 0; p < pronoun.length; p++){
         for(n = 0; n < noun.length; n++){
             const element = pronoun[p]+adj[a]+noun[n];
             console.log("https://www." + element + ".com");
-            console.log("https://www." + element + ".net");
             console.log(`https://www.${element}.cl`);
-            console.log(`https://www.${element}.us`);
         }
     }
 }
